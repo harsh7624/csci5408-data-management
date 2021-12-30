@@ -1,0 +1,12 @@
+Line 25: Connection establisheed 
+Line 25: Connection establisheed 
+Line 25: Connection establisheed 
+Line 32: Select statement executed 
+Line 34: Update statement executed 
+Line 32: Select statement executed 
+Line 34: Update statement executed 
+LOCK RELEASED 
+Line 32: Select statement executed 
+Line 34: Update statement executed 
+LOCK RELEASED 
+LOCK RELEASED 

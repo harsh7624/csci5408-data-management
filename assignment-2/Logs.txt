@@ -1,0 +1,12 @@
+Line 25: Connection established 
+Line 25: Connection established 
+Line 25: Connection established 
+Line 30: Select statement executed 
+Line 30: Select statement executed 
+Line 30: Select statement executed 
+Line 34: Update statement executed 
+Line 34: Update statement executed 
+Line 36: Committed Priority : low
+Line 36: Committed Priority : medium
+Line 34: Update statement executed 
+Line 36: Committed Priority : high
